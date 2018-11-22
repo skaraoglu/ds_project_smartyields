@@ -1,1 +1,762 @@
+ID = 00SUN1
+Number of measurements taken: 14914
+First measurements for censor: 2018-03-28 00:25:02
+Last measurements for censor: 2018-05-08 20:47:14
+Time between first and last measurement: 41 days, 20:22:12
+
+ID = 03WUSX
+Number of measurements taken: 11906
+First measurements for censor: 2018-04-05 03:54:28
+Last measurements for censor: 2018-05-08 20:44:44
+Time between first and last measurement: 33 days, 16:50:16
+
+ID = 0ADGCW
+Number of measurements taken: 5638
+First measurements for censor: 2018-04-24 01:23:12
+Last measurements for censor: 2018-05-08 20:50:24
+Time between first and last measurement: 14 days, 19:27:12
+
+ID = 0VB0NK
+Number of measurements taken: 4721
+First measurements for censor: 2018-04-24 01:32:56
+Last measurements for censor: 2018-05-08 20:50:41
+Time between first and last measurement: 14 days, 19:17:45
+
+ID = 16NFDT
+Number of measurements taken: 6222
+First measurements for censor: 2018-03-28 00:55:14
+Last measurements for censor: 2018-05-08 20:46:51
+Time between first and last measurement: 41 days, 19:51:37
+
+ID = 18ZC55
+Number of measurements taken: 5997
+First measurements for censor: 2018-04-24 01:21:38
+Last measurements for censor: 2018-05-08 20:47:05
+Time between first and last measurement: 14 days, 19:25:27
+
+ID = 253MOH
+Number of measurements taken: 11869
+First measurements for censor: 2018-04-05 03:52:30
+Last measurements for censor: 2018-05-08 20:52:44
+Time between first and last measurement: 33 days, 17:00:14
+
+ID = 2EVMW0
+Number of measurements taken: 4567
+First measurements for censor: 2018-04-05 03:52:54
+Last measurements for censor: 2018-04-18 22:58:03
+Time between first and last measurement: 13 days, 19:05:09
+
+ID = 2FI6RE
+Number of measurements taken: 5247
+First measurements for censor: 2018-04-24 01:42:48
+Last measurements for censor: 2018-05-08 20:46:45
+Time between first and last measurement: 14 days, 19:03:57
+
+ID = 2M3VN4
+Number of measurements taken: 4924
+First measurements for censor: 2018-04-24 01:22:38
+Last measurements for censor: 2018-05-08 20:36:20
+Time between first and last measurement: 14 days, 19:13:42
+
+ID = 31PQ0E
+Number of measurements taken: 5584
+First measurements for censor: 2018-04-24 01:32:19
+Last measurements for censor: 2018-05-08 20:51:28
+Time between first and last measurement: 14 days, 19:19:09
+
+ID = 36HP36
+Number of measurements taken: 5242
+First measurements for censor: 2018-04-05 06:02:06
+Last measurements for censor: 2018-04-19 00:03:14
+Time between first and last measurement: 13 days, 18:01:08
+
+ID = 3X9NU0
+Number of measurements taken: 4992
+First measurements for censor: 2018-04-05 03:52:57
+Last measurements for censor: 2018-04-19 07:29:24
+Time between first and last measurement: 14 days, 3:36:27
+
+ID = 3YG5OE
+Number of measurements taken: 5920
+First measurements for censor: 2018-04-24 01:22:27
+Last measurements for censor: 2018-05-08 20:46:37
+Time between first and last measurement: 14 days, 19:24:10
+
+ID = 4R3OVS
+Number of measurements taken: 14518
+First measurements for censor: 2018-03-28 00:49:12
+Last measurements for censor: 2018-05-08 20:48:18
+Time between first and last measurement: 41 days, 19:59:06
+
+ID = 4XDB42
+Number of measurements taken: 2388
+First measurements for censor: 2018-04-24 01:53:49
+Last measurements for censor: 2018-05-08 20:27:17
+Time between first and last measurement: 14 days, 18:33:28
+
+ID = 5XCQZA
+Number of measurements taken: 19
+First measurements for censor: 2018-04-05 06:01:41
+Last measurements for censor: 2018-04-05 07:06:48
+Time between first and last measurement: 1:05:07
+
+ID = 646WFB
+Number of measurements taken: 5573
+First measurements for censor: 2018-04-24 01:21:38
+Last measurements for censor: 2018-05-08 20:53:26
+Time between first and last measurement: 14 days, 19:31:48
+
+ID = 64GVM7
+Number of measurements taken: 5474
+First measurements for censor: 2018-04-24 01:23:56
+Last measurements for censor: 2018-05-08 20:48:48
+Time between first and last measurement: 14 days, 19:24:52
+
+ID = 69NGTJ
+Number of measurements taken: 4234
+First measurements for censor: 2018-04-05 06:02:09
+Last measurements for censor: 2018-04-19 06:49:31
+Time between first and last measurement: 14 days, 0:47:22
+
+ID = 6Q79N3
+Number of measurements taken: 4731
+First measurements for censor: 2018-04-05 06:00:47
+Last measurements for censor: 2018-04-18 23:51:54
+Time between first and last measurement: 13 days, 17:51:07
+
+ID = 6XCIEU
+Number of measurements taken: 4770
+First measurements for censor: 2018-04-05 03:53:12
+Last measurements for censor: 2018-04-18 23:54:49
+Time between first and last measurement: 13 days, 20:01:37
+
+ID = 88W4MC
+Number of measurements taken: 4564
+First measurements for censor: 2018-04-05 06:01:13
+Last measurements for censor: 2018-04-19 07:31:35
+Time between first and last measurement: 14 days, 1:30:22
+
+ID = 8CR27Y
+Number of measurements taken: 5945
+First measurements for censor: 2018-04-24 01:22:22
+Last measurements for censor: 2018-05-08 20:47:28
+Time between first and last measurement: 14 days, 19:25:06
+
+ID = 8EK1KA
+Number of measurements taken: 5106
+First measurements for censor: 2018-04-05 06:00:48
+Last measurements for censor: 2018-04-19 07:30:21
+Time between first and last measurement: 14 days, 1:29:33
+
+ID = 99KXAO
+Number of measurements taken: 5596
+First measurements for censor: 2018-04-24 01:23:43
+Last measurements for censor: 2018-05-08 20:40:20
+Time between first and last measurement: 14 days, 19:16:37
+
+ID = 9HV2AA
+Number of measurements taken: 5512
+First measurements for censor: 2018-04-24 01:22:46
+Last measurements for censor: 2018-05-08 20:46:35
+Time between first and last measurement: 14 days, 19:23:49
+
+ID = 9WKDCB
+Number of measurements taken: 5993
+First measurements for censor: 2018-04-24 01:23:42
+Last measurements for censor: 2018-05-08 20:52:16
+Time between first and last measurement: 14 days, 19:28:34
+
+ID = 9XIWQM
+Number of measurements taken: 4446
+First measurements for censor: 2018-04-05 03:53:57
+Last measurements for censor: 2018-04-19 07:32:12
+Time between first and last measurement: 14 days, 3:38:15
+
+ID = AR5SEY
+Number of measurements taken: 5117
+First measurements for censor: 2018-04-24 01:32:08
+Last measurements for censor: 2018-05-08 20:51:08
+Time between first and last measurement: 14 days, 19:19:00
+
+ID = B106NA
+Number of measurements taken: 10408
+First measurements for censor: 2018-04-05 03:53:36
+Last measurements for censor: 2018-05-08 17:49:42
+Time between first and last measurement: 33 days, 13:56:06
+
+ID = B2A6KN
+Number of measurements taken: 1878
+First measurements for censor: 2018-04-24 01:32:53
+Last measurements for censor: 2018-05-08 20:34:14
+Time between first and last measurement: 14 days, 19:01:21
+
+ID = BJ76OM
+Number of measurements taken: 5557
+First measurements for censor: 2018-04-24 01:23:42
+Last measurements for censor: 2018-05-08 20:48:05
+Time between first and last measurement: 14 days, 19:24:23
+
+ID = BLMQB0
+Number of measurements taken: 11194
+First measurements for censor: 2018-04-05 03:52:49
+Last measurements for censor: 2018-05-08 20:53:19
+Time between first and last measurement: 33 days, 17:00:30
+
+ID = BWDOY2
+Number of measurements taken: 6110
+First measurements for censor: 2018-04-24 01:21:28
+Last measurements for censor: 2018-05-08 20:52:15
+Time between first and last measurement: 14 days, 19:30:47
+
+ID = C7EULH
+Number of measurements taken: 5646
+First measurements for censor: 2018-04-24 01:22:10
+Last measurements for censor: 2018-05-08 20:52:40
+Time between first and last measurement: 14 days, 19:30:30
+
+ID = CAB61X
+Number of measurements taken: 5279
+First measurements for censor: 2018-04-05 06:00:42
+Last measurements for censor: 2018-04-19 04:06:47
+Time between first and last measurement: 13 days, 22:06:05
+
+ID = CDF20O
+Number of measurements taken: 5634
+First measurements for censor: 2018-04-24 01:22:06
+Last measurements for censor: 2018-05-08 20:45:13
+Time between first and last measurement: 14 days, 19:23:07
+
+ID = CNMGKL
+Number of measurements taken: 5567
+First measurements for censor: 2018-04-24 01:22:57
+Last measurements for censor: 2018-05-08 20:52:46
+Time between first and last measurement: 14 days, 19:29:49
+
+ID = CSFE5E
+Number of measurements taken: 5901
+First measurements for censor: 2018-04-24 01:23:48
+Last measurements for censor: 2018-05-08 20:54:42
+Time between first and last measurement: 14 days, 19:30:54
+
+ID = CUPV5D
+Number of measurements taken: 5968
+First measurements for censor: 2018-04-24 01:22:37
+Last measurements for censor: 2018-05-08 20:53:16
+Time between first and last measurement: 14 days, 19:30:39
+
+ID = D5XN92
+Number of measurements taken: 5830
+First measurements for censor: 2018-04-24 01:21:45
+Last measurements for censor: 2018-05-08 20:51:30
+Time between first and last measurement: 14 days, 19:29:45
+
+ID = D6FO0Y
+Number of measurements taken: 5488
+First measurements for censor: 2018-04-05 06:01:38
+Last measurements for censor: 2018-04-18 23:59:34
+Time between first and last measurement: 13 days, 17:57:56
+
+ID = D9B8MJ
+Number of measurements taken: 11781
+First measurements for censor: 2018-04-05 06:01:52
+Last measurements for censor: 2018-05-08 20:52:25
+Time between first and last measurement: 33 days, 14:50:33
+
+ID = DG4O6F
+Number of measurements taken: 5503
+First measurements for censor: 2018-04-24 01:22:37
+Last measurements for censor: 2018-05-08 20:46:10
+Time between first and last measurement: 14 days, 19:23:33
+
+ID = DKX0PD
+Number of measurements taken: 5567
+First measurements for censor: 2018-04-24 01:22:45
+Last measurements for censor: 2018-05-08 20:54:47
+Time between first and last measurement: 14 days, 19:32:02
+
+ID = E7Y1NM
+Number of measurements taken: 14577
+First measurements for censor: 2018-03-28 00:28:18
+Last measurements for censor: 2018-05-08 20:47:46
+Time between first and last measurement: 41 days, 20:19:28
+
+ID = EIAP2T
+Number of measurements taken: 6076
+First measurements for censor: 2018-04-24 01:22:04
+Last measurements for censor: 2018-05-08 20:48:47
+Time between first and last measurement: 14 days, 19:26:43
+
+ID = EJFCH6
+Number of measurements taken: 15058
+First measurements for censor: 2018-03-28 00:40:17
+Last measurements for censor: 2018-05-08 20:46:28
+Time between first and last measurement: 41 days, 20:06:11
+
+ID = EMY75M
+Number of measurements taken: 12100
+First measurements for censor: 2018-04-05 03:53:17
+Last measurements for censor: 2018-05-08 20:46:07
+Time between first and last measurement: 33 days, 16:52:50
+
+ID = ENIUZK
+Number of measurements taken: 11654
+First measurements for censor: 2018-04-05 03:53:44
+Last measurements for censor: 2018-05-08 20:49:40
+Time between first and last measurement: 33 days, 16:55:56
+
+ID = EP3ORT
+Number of measurements taken: 11773
+First measurements for censor: 2018-04-05 03:54:33
+Last measurements for censor: 2018-05-08 20:49:12
+Time between first and last measurement: 33 days, 16:54:39
+
+ID = ETC5S0
+Number of measurements taken: 5998
+First measurements for censor: 2018-04-24 01:21:44
+Last measurements for censor: 2018-05-08 20:46:58
+Time between first and last measurement: 14 days, 19:25:14
+
+ID = EZRTC6
+Number of measurements taken: 5786
+First measurements for censor: 2018-04-24 01:22:58
+Last measurements for censor: 2018-05-08 20:54:15
+Time between first and last measurement: 14 days, 19:31:17
+
+ID = F6QAO7
+Number of measurements taken: 5704
+First measurements for censor: 2018-04-24 01:23:45
+Last measurements for censor: 2018-05-08 20:49:39
+Time between first and last measurement: 14 days, 19:25:54
+
+ID = FIY0HK
+Number of measurements taken: 10786
+First measurements for censor: 2018-03-28 00:27:01
+Last measurements for censor: 2018-04-27 23:59:57
+Time between first and last measurement: 30 days, 23:32:56
+
+ID = FMZO13
+Number of measurements taken: 12159
+First measurements for censor: 2018-04-05 03:52:10
+Last measurements for censor: 2018-05-08 20:45:59
+Time between first and last measurement: 33 days, 16:53:49
+
+ID = FS451Z
+Number of measurements taken: 5553
+First measurements for censor: 2018-04-24 01:23:02
+Last measurements for censor: 2018-05-08 20:48:43
+Time between first and last measurement: 14 days, 19:25:41
+
+ID = FYNN89
+Number of measurements taken: 5669
+First measurements for censor: 2018-04-24 01:22:43
+Last measurements for censor: 2018-05-08 20:47:55
+Time between first and last measurement: 14 days, 19:25:12
+
+ID = G0B221
+Number of measurements taken: 5798
+First measurements for censor: 2018-04-24 01:21:53
+Last measurements for censor: 2018-05-07 16:40:08
+Time between first and last measurement: 13 days, 15:18:15
+
+ID = G2RRJC
+Number of measurements taken: 5699
+First measurements for censor: 2018-04-24 01:23:21
+Last measurements for censor: 2018-05-08 20:50:31
+Time between first and last measurement: 14 days, 19:27:10
+
+ID = GA480B
+Number of measurements taken: 5489
+First measurements for censor: 2018-04-24 01:23:45
+Last measurements for censor: 2018-05-08 20:49:06
+Time between first and last measurement: 14 days, 19:25:21
+
+ID = GN0PV0
+Number of measurements taken: 5651
+First measurements for censor: 2018-04-24 01:22:24
+Last measurements for censor: 2018-05-08 20:46:11
+Time between first and last measurement: 14 days, 19:23:47
+
+ID = GNMCD5
+Number of measurements taken: 6141
+First measurements for censor: 2018-04-24 01:22:46
+Last measurements for censor: 2018-05-08 20:52:42
+Time between first and last measurement: 14 days, 19:29:56
+
+ID = H4DHK1
+Number of measurements taken: 5038
+First measurements for censor: 2018-04-05 06:02:22
+Last measurements for censor: 2018-04-19 07:31:20
+Time between first and last measurement: 14 days, 1:28:58
+
+ID = HG8IBG
+Number of measurements taken: 5381
+First measurements for censor: 2018-04-24 01:24:01
+Last measurements for censor: 2018-05-08 20:49:12
+Time between first and last measurement: 14 days, 19:25:11
+
+ID = HL5E7G
+Number of measurements taken: 1752
+First measurements for censor: 2018-04-24 01:52:56
+Last measurements for censor: 2018-05-08 20:26:36
+Time between first and last measurement: 14 days, 18:33:40
+
+ID = IBICZD
+Number of measurements taken: 5707
+First measurements for censor: 2018-04-24 01:22:39
+Last measurements for censor: 2018-05-08 20:53:28
+Time between first and last measurement: 14 days, 19:30:49
+
+ID = IL57CR
+Number of measurements taken: 4689
+First measurements for censor: 2018-04-05 06:00:20
+Last measurements for censor: 2018-04-18 23:42:39
+Time between first and last measurement: 13 days, 17:42:19
+
+ID = IQRK7T
+Number of measurements taken: 5965
+First measurements for censor: 2018-04-24 01:23:58
+Last measurements for censor: 2018-05-08 20:53:47
+Time between first and last measurement: 14 days, 19:29:49
+
+ID = IRMRC8
+Number of measurements taken: 5666
+First measurements for censor: 2018-04-24 01:21:46
+Last measurements for censor: 2018-05-08 20:52:58
+Time between first and last measurement: 14 days, 19:31:12
+
+ID = ISJ287
+Number of measurements taken: 4611
+First measurements for censor: 2018-04-05 03:54:29
+Last measurements for censor: 2018-04-18 22:55:10
+Time between first and last measurement: 13 days, 19:00:41
+
+ID = J7QLHO
+Number of measurements taken: 4643
+First measurements for censor: 2018-03-28 00:24:08
+Last measurements for censor: 2018-05-08 20:44:41
+Time between first and last measurement: 41 days, 20:20:33
+
+ID = KDSB9Q
+Number of measurements taken: 14454
+First measurements for censor: 2018-03-28 00:35:22
+Last measurements for censor: 2018-05-08 20:49:01
+Time between first and last measurement: 41 days, 20:13:39
+
+ID = KP55FE
+Number of measurements taken: 5673
+First measurements for censor: 2018-04-24 01:22:13
+Last measurements for censor: 2018-05-08 20:46:53
+Time between first and last measurement: 14 days, 19:24:40
+
+ID = KRJPWV
+Number of measurements taken: 4943
+First measurements for censor: 2018-04-24 01:33:13
+Last measurements for censor: 2018-05-08 20:51:12
+Time between first and last measurement: 14 days, 19:17:59
+
+ID = KZ7UIF
+Number of measurements taken: 5460
+First measurements for censor: 2018-04-05 06:02:03
+Last measurements for censor: 2018-04-19 07:34:46
+Time between first and last measurement: 14 days, 1:32:43
+
+ID = L69HRH
+Number of measurements taken: 4597
+First measurements for censor: 2018-04-05 03:53:22
+Last measurements for censor: 2018-04-18 23:59:39
+Time between first and last measurement: 13 days, 20:06:17
+
+ID = LQUPHP
+Number of measurements taken: 5163
+First measurements for censor: 2018-04-05 06:02:21
+Last measurements for censor: 2018-04-19 07:34:34
+Time between first and last measurement: 14 days, 1:32:13
+
+ID = LUGQBL
+Number of measurements taken: 10588
+First measurements for censor: 2018-03-28 00:39:57
+Last measurements for censor: 2018-05-08 20:49:16
+Time between first and last measurement: 41 days, 20:09:19
+
+ID = LX1BGU
+Number of measurements taken: 1266
+First measurements for censor: 2018-04-05 03:53:56
+Last measurements for censor: 2018-04-08 18:22:40
+Time between first and last measurement: 3 days, 14:28:44
+
+ID = MU54LE
+Number of measurements taken: 5684
+First measurements for censor: 2018-04-24 01:22:36
+Last measurements for censor: 2018-05-08 20:49:14
+Time between first and last measurement: 14 days, 19:26:38
+
+ID = NSFE7R
+Number of measurements taken: 5712
+First measurements for censor: 2018-04-24 01:22:16
+Last measurements for censor: 2018-05-08 20:45:41
+Time between first and last measurement: 14 days, 19:23:25
+
+ID = O02VT7
+Number of measurements taken: 6023
+First measurements for censor: 2018-04-24 01:23:46
+Last measurements for censor: 2018-05-08 20:54:08
+Time between first and last measurement: 14 days, 19:30:22
+
+ID = O51215
+Number of measurements taken: 8322
+First measurements for censor: 2018-04-05 04:47:57
+Last measurements for censor: 2018-05-08 20:52:36
+Time between first and last measurement: 33 days, 16:04:39
+
+ID = OKXM1J
+Number of measurements taken: 4612
+First measurements for censor: 2018-04-05 03:53:39
+Last measurements for censor: 2018-04-18 23:56:37
+Time between first and last measurement: 13 days, 20:02:58
+
+ID = OM9MFY
+Number of measurements taken: 14567
+First measurements for censor: 2018-03-28 00:40:35
+Last measurements for censor: 2018-05-08 20:49:01
+Time between first and last measurement: 41 days, 20:08:26
+
+ID = OZTUJH
+Number of measurements taken: 6055
+First measurements for censor: 2018-04-24 01:22:31
+Last measurements for censor: 2018-05-08 20:50:44
+Time between first and last measurement: 14 days, 19:28:13
+
+ID = PBLJEY
+Number of measurements taken: 30
+First measurements for censor: 2018-04-05 06:00:58
+Last measurements for censor: 2018-04-05 07:30:19
+Time between first and last measurement: 1:29:21
+
+ID = PJQDUC
+Number of measurements taken: 4666
+First measurements for censor: 2018-04-05 03:54:15
+Last measurements for censor: 2018-04-18 21:35:14
+Time between first and last measurement: 13 days, 17:40:59
+
+ID = PPTKQ6
+Number of measurements taken: 11886
+First measurements for censor: 2018-04-05 03:52:38
+Last measurements for censor: 2018-05-08 20:49:42
+Time between first and last measurement: 33 days, 16:57:04
+
+ID = QOZOKO
+Number of measurements taken: 5806
+First measurements for censor: 2018-04-24 01:23:41
+Last measurements for censor: 2018-05-08 20:52:22
+Time between first and last measurement: 14 days, 19:28:41
+
+ID = QSQ8LU
+Number of measurements taken: 4995
+First measurements for censor: 2018-04-05 06:02:06
+Last measurements for censor: 2018-04-19 07:20:14
+Time between first and last measurement: 14 days, 1:18:08
+
+ID = R0W8ND
+Number of measurements taken: 12626
+First measurements for censor: 2018-04-05 03:54:17
+Last measurements for censor: 2018-05-08 20:44:31
+Time between first and last measurement: 33 days, 16:50:14
+
+ID = R12VWN
+Number of measurements taken: 12545
+First measurements for censor: 2018-04-05 03:52:08
+Last measurements for censor: 2018-05-08 20:46:54
+Time between first and last measurement: 33 days, 16:54:46
+
+ID = R4EVN2
+Number of measurements taken: 5137
+First measurements for censor: 2018-04-05 06:00:01
+Last measurements for censor: 2018-04-19 06:29:36
+Time between first and last measurement: 14 days, 0:29:35
+
+ID = RF9GUT
+Number of measurements taken: 5091
+First measurements for censor: 2018-04-05 06:00:54
+Last measurements for censor: 2018-04-18 23:56:37
+Time between first and last measurement: 13 days, 17:55:43
+
+ID = RFJCPT
+Number of measurements taken: 4979
+First measurements for censor: 2018-04-05 03:52:07
+Last measurements for censor: 2018-04-19 07:21:56
+Time between first and last measurement: 14 days, 3:29:49
+
+ID = RRJ85Y
+Number of measurements taken: 4793
+First measurements for censor: 2018-04-05 03:54:31
+Last measurements for censor: 2018-04-18 23:46:57
+Time between first and last measurement: 13 days, 19:52:26
+
+ID = RU1ITZ
+Number of measurements taken: 5353
+First measurements for censor: 2018-04-24 01:23:36
+Last measurements for censor: 2018-05-08 20:50:52
+Time between first and last measurement: 14 days, 19:27:16
+
+ID = S1IO6E
+Number of measurements taken: 4860
+First measurements for censor: 2018-04-05 03:52:36
+Last measurements for censor: 2018-04-19 07:26:32
+Time between first and last measurement: 14 days, 3:33:56
+
+ID = SIX9GD
+Number of measurements taken: 48
+First measurements for censor: 2018-04-08 10:01:09
+Last measurements for censor: 2018-04-18 20:23:31
+Time between first and last measurement: 10 days, 10:22:22
+
+ID = SLXMLT
+Number of measurements taken: 4901
+First measurements for censor: 2018-04-05 06:01:12
+Last measurements for censor: 2018-04-19 02:48:28
+Time between first and last measurement: 13 days, 20:47:16
+
+ID = SN9BNN
+Number of measurements taken: 10193
+First measurements for censor: 2018-04-05 04:03:13
+Last measurements for censor: 2018-05-08 20:48:30
+Time between first and last measurement: 33 days, 16:45:17
+
+ID = TAAL1O
+Number of measurements taken: 6168
+First measurements for censor: 2018-04-24 01:23:08
+Last measurements for censor: 2018-05-08 20:52:18
+Time between first and last measurement: 14 days, 19:29:10
+
+ID = TGR5D0
+Number of measurements taken: 5739
+First measurements for censor: 2018-04-24 01:22:06
+Last measurements for censor: 2018-05-08 20:53:03
+Time between first and last measurement: 14 days, 19:30:57
+
+ID = TW853A
+Number of measurements taken: 6029
+First measurements for censor: 2018-04-24 01:21:59
+Last measurements for censor: 2018-05-08 20:51:30
+Time between first and last measurement: 14 days, 19:29:31
+
+ID = UINMPN
+Number of measurements taken: 10723
+First measurements for censor: 2018-04-05 03:53:00
+Last measurements for censor: 2018-05-08 20:46:13
+Time between first and last measurement: 33 days, 16:53:13
+
+ID = UNCVO1
+Number of measurements taken: 4583
+First measurements for censor: 2018-04-24 01:22:46
+Last measurements for censor: 2018-05-08 20:51:58
+Time between first and last measurement: 14 days, 19:29:12
+
+ID = UV6ALW
+Number of measurements taken: 11671
+First measurements for censor: 2018-04-05 03:54:30
+Last measurements for censor: 2018-05-08 20:54:13
+Time between first and last measurement: 33 days, 16:59:43
+
+ID = UYU4RV
+Number of measurements taken: 5191
+First measurements for censor: 2018-04-05 06:01:13
+Last measurements for censor: 2018-04-19 07:33:48
+Time between first and last measurement: 14 days, 1:32:35
+
+ID = UYVCYI
+Number of measurements taken: 6311
+First measurements for censor: 2018-04-24 01:23:45
+Last measurements for censor: 2018-05-08 20:52:14
+Time between first and last measurement: 14 days, 19:28:29
+
+ID = V8CDUF
+Number of measurements taken: 12446
+First measurements for censor: 2018-04-05 06:02:18
+Last measurements for censor: 2018-05-08 20:48:33
+Time between first and last measurement: 33 days, 14:46:15
+
+ID = VVUD8V
+Number of measurements taken: 5663
+First measurements for censor: 2018-04-24 01:21:59
+Last measurements for censor: 2018-05-08 20:51:25
+Time between first and last measurement: 14 days, 19:29:26
+
+ID = W5AKRZ
+Number of measurements taken: 4660
+First measurements for censor: 2018-04-05 03:53:21
+Last measurements for censor: 2018-04-18 22:50:58
+Time between first and last measurement: 13 days, 18:57:37
+
+ID = X0MD68
+Number of measurements taken: 5217
+First measurements for censor: 2018-04-05 06:00:30
+Last measurements for censor: 2018-04-19 07:29:47
+Time between first and last measurement: 14 days, 1:29:17
+
+ID = XBTSZV
+Number of measurements taken: 5272
+First measurements for censor: 2018-04-24 01:42:44
+Last measurements for censor: 2018-05-08 20:49:46
+Time between first and last measurement: 14 days, 19:07:02
+
+ID = XZEQ4V
+Number of measurements taken: 2035
+First measurements for censor: 2018-04-24 01:33:46
+Last measurements for censor: 2018-05-08 19:08:50
+Time between first and last measurement: 14 days, 17:35:04
+
+ID = Y5WK4U
+Number of measurements taken: 4988
+First measurements for censor: 2018-04-05 03:53:32
+Last measurements for censor: 2018-04-19 07:01:03
+Time between first and last measurement: 14 days, 3:07:31
+
+ID = Y9RLH9
+Number of measurements taken: 5426
+First measurements for censor: 2018-04-24 01:23:33
+Last measurements for censor: 2018-05-08 20:48:57
+Time between first and last measurement: 14 days, 19:25:24
+
+ID = YYYCSH
+Number of measurements taken: 12545
+First measurements for censor: 2018-04-05 03:52:22
+Last measurements for censor: 2018-05-08 20:49:28
+Time between first and last measurement: 33 days, 16:57:06
+
+ID = Z2KN3N
+Number of measurements taken: 4680
+First measurements for censor: 2018-04-05 06:00:22
+Last measurements for censor: 2018-04-18 22:17:41
+Time between first and last measurement: 13 days, 16:17:19
+
+ID = Z5DYHL
+Number of measurements taken: 10589
+First measurements for censor: 2018-04-05 06:01:00
+Last measurements for censor: 2018-05-08 20:54:12
+Time between first and last measurement: 33 days, 14:53:12
+
+ID = ZDZE2Z
+Number of measurements taken: 5188
+First measurements for censor: 2018-04-05 06:00:36
+Last measurements for censor: 2018-04-18 23:49:19
+Time between first and last measurement: 13 days, 17:48:43
+
+ID = ZTL89K
+Number of measurements taken: 6123
+First measurements for censor: 2018-04-24 01:23:37
+Last measurements for censor: 2018-05-08 20:52:52
+Time between first and last measurement: 14 days, 19:29:15
+
+ID = ZVZLX9
+Number of measurements taken: 9753
+First measurements for censor: 2018-03-28 00:47:54
+Last measurements for censor: 2018-05-08 20:39:38
+Time between first and last measurement: 41 days, 19:51:44
+
+ID = ZWUSGV
+Number of measurements taken: 4477
+First measurements for censor: 2018-04-05 06:00:41
+Last measurements for censor: 2018-04-18 22:50:52
+Time between first and last measurement: 13 days, 16:50:11
 
